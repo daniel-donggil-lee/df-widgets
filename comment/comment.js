@@ -18,7 +18,7 @@
   const PROJECT = SCRIPT.dataset.project || '미지정';
   const PAGE = SCRIPT.dataset.page || document.title || '미지정';
   const ENDPOINT = SCRIPT.dataset.endpoint ||
-    'https://script.google.com/macros/s/AKfycbyNPmGnm01-Jp3G4WNQl2M-84Cjl5WB4Tbgr0os1crZOjUXNnFXnm5d-g46-2JA8iR_/exec';
+    'https://script.google.com/macros/s/AKfycbyGbLdZSuRfvWC-Yy9xEh9AbIX7NMPWr4EW4cXnP3BPC22AHAtJKI-fixY5W7dk14Kw/exec';
 
   const STORAGE_KEY = 'dfc_author';
 

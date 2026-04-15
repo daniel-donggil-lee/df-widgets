@@ -11,7 +11,7 @@
  * 5. 생성된 웹 앱 URL을 comment.js 의 ENDPOINT 에 저장
  */
 
-const SHEET_ID = '1blJopvP0izqpouwM4sFYKSUZTOGIYOso-Z_T1JKyMYU';
+const SHEET_ID = '1d6EQbdNknJzpNnctSSNnp052v3aq241EwVDyjbciia4';
 const SHEET_NAME = '시트1';
 
 function doPost(e) {
